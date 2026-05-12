@@ -104,6 +104,13 @@ hotel-review-analytics-dashboard/
 ```
 
 ---
+# Live Interactive Dashboard
+The complete interactive Power BI dashboard can be accessed below:
+
+🔗 Power BI Workspace Link:  
+(https://app.powerbi.com/groups/me/reports/d72e4e69-f3c6-477c-b052-5bab2e3c0204?ctid=d25b6521-5be6-4014-843f-5844f419af73&pbi_source=linkShare)
+
+---
 
 # Author
 
